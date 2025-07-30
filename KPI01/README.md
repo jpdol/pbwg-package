@@ -12,6 +12,7 @@ Percentage of flights departing from the gate on-time (compared to schedule).
 
 ## Data Transformation Diagram
 
+![KPI01 Diagram](https://github.com/jpdol/pbwg-package/blob/main/KPI01/kpi01_diagram.png?raw=true)
 
 
 ## Data Dictionary
@@ -28,7 +29,7 @@ Percentage of flights departing from the gate on-time (compared to schedule).
 | v1b      | Pontual para a Variante 1B                       | 0 or 1                  |
 | v2a      | Pontual para a Variante 2A                       | 0 or 1                  |
 | v2b      | Pontual para a Variante 2B                       | 0 or 1                  |
-| kpi01_v1a| Percentual de Voos pontuais para a Variante 1A   | 0 or 1                  |
-| kpi01_v1b| Percentual de Voos pontuais para a Variante 1B   | 0 or 1                  |
-| kpi01_v2a| Percentual de Voos pontuais para a Variante 2A   | 0 or 1                  |
-| kpi01_v2b| Percentual de Voos pontuais para a Variante 2B   | 0 or 1                  |
+| kpi01_v1a| Percentual de Voos pontuais para a Variante 1A   | 0.80                    |
+| kpi01_v1b| Percentual de Voos pontuais para a Variante 1B   | 0.50                    |
+| kpi01_v2a| Percentual de Voos pontuais para a Variante 2A   | 1.0                     |
+| kpi01_v2b| Percentual de Voos pontuais para a Variante 2B   | 0.0                     |
