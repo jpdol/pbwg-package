@@ -1,2 +1,2 @@
-# pbwg-package
-Standardized implementations, developed in R, of the Key Performance Indicators (KPIs) defined by ICAO's Global Air Navigation Plan (GANP)
+# PBWG Package
+This repo aims to provide implementation and comprehensive documentation for the PBWG package. The package contains standardized implementations, developed in R, of the Key Performance Indicators (KPIs) defined by ICAO's Global Air Navigation Plan (GANP). For each KPI included, the documentation provides a detailed description, a data transformation diagram, and a practical usage example.
