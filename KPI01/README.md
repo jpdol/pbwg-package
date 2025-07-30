@@ -13,7 +13,7 @@ Percentage of flights departing from the gate on-time (compared to schedule).
 ## Data Transformation Diagram
 
 <div align="center">
-  <img src="https://github.com/jpdol/pbwg-package/blob/main/KPI01/kpi01_diagram.png?raw=true" alt="KPI01 Diagram" width="50%">
+  <img src="https://github.com/jpdol/pbwg-package/blob/main/KPI01/kpi01_diagram.png?raw=true" alt="KPI01 Diagram" width="80%">
 </div>
 
 ## Data Dictionary
